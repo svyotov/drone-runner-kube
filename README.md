@@ -4,7 +4,7 @@ The `kubernetes` runner executes pipelines inside Kubernetes pods. This runner i
 
 <!--
 Documentation:<br/>
-https://kubernetes-runner.docs.drone.io
+https://kubernetes-runner.docs.drone.io/
 -->
 
 Technical Support:<br/>
